@@ -1,2 +1,3 @@
-# Exercicios Ifrs
- Exercicios de programação do Instituto Federal
+# Exercícios Ifrs
+ Exercícios de programação do Instituto Federal do Rio Grande do Sul.
+ 
